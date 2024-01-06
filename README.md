@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Get A Job
 - 🌱 I’m currently learning SOC Analyst and Incedint Response
 - 👯 I’m looking to collaborate on telenor.se bug hunting
-- 🤔 I’m looking for help with My Youtube Channel [![VigilCypher](https://www.youtube.com/@VigilCypher)]
+- 🤔 I’m looking for help with My Youtube Channel [!VigilCypher(https://www.youtube.com/@VigilCypher)]
 <!-- 💬 Ask me about ...-->
 - 📫 How to reach me: +201093394714
 <!-- 😄 Pronouns: ...
