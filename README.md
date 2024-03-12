@@ -1,7 +1,7 @@
 ### Welcome To My World 👋
 
-- 🔭 I’m currently working as a Cyber Threat Intelligence Analyst.
-- 🌱 I’m currently learning about SOC Analyst and Incident Response.
+- 🔭 I’m currently working as a Cyber  Analyst.
+- 🌱 I’m currently learning about Threat Intelligence and Incident Response.
 - 🤔 I’m looking for help with My YouTube Channel [VigilCypher](https://www.youtube.com/@VigilCypher).
 - 📫 How to reach me: +201093394714.
 
