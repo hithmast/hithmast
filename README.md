@@ -1,13 +1,8 @@
 ### Welcome To My World 👋
 
+- 🔭 I’m currently working as a Cyber Threat Intelligence Analyst.
+- 🌱 I’m currently learning about SOC Analyst and Incident Response.
+- 🤔 I’m looking for help with My YouTube Channel [VigilCypher](https://www.youtube.com/@VigilCypher).
+- 📫 How to reach me: +201093394714.
 
-- 🔭 I’m currently working on Get A Job
-- 🌱 I’m currently learning SOC Analyst and Incedint Response
-  <!-- 👯 I’m looking to collaborate on telenor.se bug hunting-->
-- 🤔 I’m looking for help with My Youtube Channel [VigilCypher](https://www.youtube.com/@VigilCypher)
-<!-- 💬 Ask me about ...-->
-- 📫 How to reach me: +201093394714
-<!-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-  
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=hithmast)](https://github.com/anuraghazra/github-readme-stats)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=hithmast&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
